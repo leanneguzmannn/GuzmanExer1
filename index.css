@@ -1,0 +1,118 @@
+.page {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#me {
+    position: absolute;
+    left: 41%;
+    top: 20%;
+}
+
+.nickname{
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: 40px;
+  font-weight: bold;
+  color: #2a7785;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.name{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  position: absolute;
+  top: 78%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#icon1{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 15%;
+    left: 23%;
+}
+
+.ans1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #f7aca8;
+  text-align: justify;
+  position: absolute;
+  top: 25%;
+  left: 63%;
+  transform: translate(-50%, -50%); 
+}
+
+#icon2{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 55%;
+    left: 69%;
+}
+
+.ans2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #f7aca8;
+  text-align: justify;
+  width: 495px;
+  position: absolute;
+  top: 65%;
+  left: 41%;
+  transform: translate(-50%, -50%); 
+}
+
+.ans3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #2a7785;
+  text-align: justify;
+  position: absolute;
+  top: 25%;
+  left: 63%;
+  transform: translate(-50%, -50%); 
+}
+
+.ans4{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #2a7785;
+  width: 600px;
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#food{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 62%;
+    left: 25%;
+}
+
+#food1{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 62%;
+    left: 45%;
+}
+
+#food2{
+    height: 142px;
+    width: 142px;
+    position: absolute;
+    top: 62%;
+    left: 65%;
+}

@@ -116,3 +116,83 @@
     top: 62%;
     left: 65%;
 }
+
+.dream{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #f7aca8;
+  width: 600px;
+  position: absolute;
+  top: 18%;
+  left: 20%;
+  transform: translate(-50%, -50%); 
+}
+
+#doc{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 40%;
+    left: 4%;
+}
+
+#chef{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+.hobby{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #2a7785;
+  width: 600px;
+  position: absolute;
+  top: 8%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+#hobby1{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 25%;
+    left: 14%;
+}
+
+#hobby2{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 25%;
+    left: 34%;
+}
+
+#hobby3{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 25%;
+    left: 54%;
+}
+
+#hobby4{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 25%;
+    left: 74%;
+}
+
+.hobbies{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  color: #2a7785;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
